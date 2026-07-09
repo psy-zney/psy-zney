@@ -25,7 +25,12 @@
 
 <!-- Refined Minimalist Animated SVG Banner -->
 <p align="center">
-  <img src="./public/zney-banner.svg" alt="ZNEY Minimalist Animated Banner" width="100%" />
+  <img src="./zney-banner.svg" alt="ZNEY Minimalist Banner" width="100%" />
+</p>
+
+<!-- Large Animated Z N E Y Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=42&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Z+++N+++E+++Y;FULL-STACK+WEB+ENGINEER;UEH+IT+STUDENT" alt="ZNEY Animated Title" />
 </p>
 
 <!-- Subtle Minimalist Typing Subtitle -->
@@ -110,36 +115,6 @@
 
 ---
 
-<details>
-<summary><b>🛠️ About This Repository (Interactive 3D Portfolio Technical Architecture)</b> — <i>Click to expand</i></summary>
-
-<br />
-
-This repository hosts my interactive agency-grade **Cyberpunk 3D Creator Portfolio**.
-
-### Key Architectural Highlights:
-* **Interactive 3D Workstation Scene:** Powered by `React Three Fiber` and `Drei` loading optimized `main.glb` models with interactive screen zoom.
-* **Animated WebGL Monitor Texture:** Renders `screenDesktop.gif` directly onto the 3D computer screen.
-* **Arcade Desktop & Mechanical Keyboard Overlay:** Features interactive mechanical keyboard sound packs (`CherryMX Black PBT`), responsive LED modes (Wave, Ripple, Press), and cat paw typing animations.
-* **Bilingual UI:** Instant toggling between English and Vietnamese.
-
-### Local Development Setup:
-```bash
-# Clone repository
-git clone https://github.com/psy-zney/psy-zney.github.io.git
-cd psy-zney.github.io
-
-# Install dependencies
-npm install
-
-# Start Vite dev server
-npm run dev
-```
-
-</details>
-
----
-
 <div align="center">
-  <sub>Made with ❤️ and Cyberpunk Aesthetics by <b>Zney</b></sub>
+  <sub>Made with ❤️ and Modern Minimalism by <b>Zney</b></sub>
 </div>
