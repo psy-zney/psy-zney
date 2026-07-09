@@ -23,9 +23,9 @@
 
 <div align="center">
 
-<!-- Refined Minimalist Animated SVG Banner -->
+<!-- Cute Pixel Art Animated MP4 Banner -->
 <p align="center">
-  <img src="./zney-banner.svg" alt="ZNEY Minimalist Banner" width="100%" />
+  <video src="https://raw.githubusercontent.com/psy-zney/psy-zney/main/banner.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
 
 <!-- CLI Terminal Typing Session -->
