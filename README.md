@@ -28,15 +28,20 @@
   <img src="./zney-banner.svg" alt="ZNEY Minimalist Banner" width="100%" />
 </p>
 
-<!-- Large Animated Z N E Y Header -->
+<!-- CLI Terminal Typing Session -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=42&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Z+++N+++E+++Y;FULL-STACK+WEB+ENGINEER;UEH+IT+STUDENT" alt="ZNEY Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+_SYSTEM.INIT(ZNEY)_DEVELOPER_ENGINE...;%3E+_STATUS%3A+FULL-STACK+WEB+ENGINEERING+STUDENT+%40+UEH;%3E+_PASSION%3A+BUILDING+PERFORMANT+%26+INTERACTIVE+SOFTWARE;%3E+_READY_FOR_IMPACT%3A+ALWAYS_LEARNING_%26_INNOVATING" alt="CLI Terminal Session" />
 </p>
 
-<!-- Subtle Minimalist Typing Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development+Engineer+%40+UEH;Architecting+Clean%2C+Performant+%26+Interactive+Web+Apps;Passionate+about+Modern+Software+Engineering" alt="Typing Subtitle" />
-</p>
+<!-- CLI Cyberpunk Block ASCII Art -->
+```ascii
+  ███████╗███╗   ██╗███████╗██╗   ██╗
+  ╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝
+    ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝ 
+   ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝  
+  ███████╗██║ ╚████║███████╗   ██║   
+  ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
+```
 
 </div>
 
