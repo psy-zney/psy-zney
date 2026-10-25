@@ -6,10 +6,10 @@
 <!-- QUICK NAVIGATION & SOCIAL PILLS -->
 <p align="center">
   <a href="https://psy-zney.github.io">
-    <img src="https://img.shields.io/badge/🌐_3D_Portfolio-psy--zney.github.io-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/3D_Portfolio-psy--zney.github.io-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/psy-zney/resc">
-    <img src="https://img.shields.io/badge/🛡️_Flagship-resc_(Rust_Forensics_MCP)-FF5733?style=for-the-badge&logo=rust&logoColor=white" alt="resc" />
+    <img src="https://img.shields.io/badge/Flagship-resc_(Rust_Forensics_MCP)-FF5733?style=for-the-badge&logo=rust&logoColor=white" alt="resc" />
   </a>
   <a href="https://www.facebook.com/psyotic.zney/">
     <img src="https://img.shields.io/badge/Facebook-psyotic.zney-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -20,19 +20,21 @@
   <img src="https://komarev.com/ghpvc/?username=psy-zney&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- ANIMATED PIXEL BANNER -->
+<!-- CLI TERMINAL TYPING SESSION -->
 <p align="center">
-  <video src="https://raw.githubusercontent.com/psy-zney/psy-zney/main/banner.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&lines=%3E+_SYSTEM.INIT(ZNEY)_SYSTEMS_%26_FULL-STACK_ENGINEER...;%3E+_FOCUS%3A+RUST_ENGINES+%E2%80%A2+AVX2_SIMD+%E2%80%A2+MCP_AGENTS+%E2%80%A2+THREE.JS;%3E+_STATUS%3A+BUILDING_HIGH-ASSURANCE_SOFTWARE_%40_UEH" alt="CLI Terminal Session" />
 </p>
 
-<!-- CYBERPUNK ASCII IDENTITY -->
-```ascii
-  ███████╗███╗   ██╗███████╗██╗   ██╗    //  SYSTEMS ARCHITECTURE & FULL-STACK ENGINEERING
-  ╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝    //  FOCUS  :: RUST • SIMD • MCP • THREE.JS • .NET
-    ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝     //  BASE   :: HO CHI MINH CITY, VIETNAM (UEH)
-   ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝      //  STATUS :: BUILDING HIGH-ASSURANCE SOFTWARE
-  ███████╗██║ ╚████║███████╗   ██║       
-  ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝       
+</div>
+
+<!-- ĐÓNG THẺ CENTER TRƯỚC KHI VẼ ASCII ĐỂ KHÔNG BỊ MÉO CHỮ -->
+```text
+   ███████╗███╗   ██╗███████╗██╗   ██╗     //  SYSTEMS ARCHITECTURE & FULL-STACK ENGINEERING
+   ╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝     //  FOCUS  :: RUST • SIMD • MCP • THREE.JS • .NET
+     ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝      //  BASE   :: HO CHI MINH CITY, VIETNAM (UEH)
+    ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝       //  STATUS :: BUILDING HIGH-ASSURANCE SOFTWARE
+   ███████╗██║ ╚████║███████╗   ██║        //  PORTAL :: [https://psy-zney.github.io](https://psy-zney.github.io)
+   ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝        //  ENGINE :: [https://github.com/psy-zney/resc](https://github.com/psy-zney/resc)
 ```
 
 </div>
