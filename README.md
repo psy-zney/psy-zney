@@ -205,19 +205,23 @@ core_principles:
 
 <div align="center">
 
-<!-- ROW 1: STATS & STREAK SIDE BY SIDE -->
+<!-- DÒNG 1: STATS & STREAK CÂN XỨNG -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psy-zney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=00F0FF" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psy-zney&theme=tokyonight&hide_border=true&background=1a1b27&ring=00F0FF&fire=FF5733&currStreakLabel=00F0FF" height="165" alt="GitHub Streak" />
 </p>
 
-<!-- ROW 2: FULL-WIDTH CONTRIBUTION GRAPH -->
+<!-- DÒNG 2: TOP LANGUAGES (TỰ ĐỘNG CẬP NHẬT RUST, TYPESCRIPT, C# RẤT ĐẸP VÀ ỔN ĐỊNH) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psy-zney&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FF5733&area=true&area_color=00F0FF" width="96%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psy-zney&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF" height="165" alt="Top Languages" />
+</p>
+
+<!-- DÒNG 3: NẾU VẪN MUỐN DÙNG GRAPH, DÙNG THÊM CỜ CACHE_SECONDS ĐỂ GIẢM LỖI -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psy-zney&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FF5733&area=true&area_color=00F0FF" width="96%" alt="Activity Graph" />
 </p>
 
 </div>
-
 ---
 
 ## 📫 Connect & Collaborate
